@@ -28,7 +28,3 @@ python main.py
 5. Click anywhere on the result screen to play again
 
 
-
-## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
-
